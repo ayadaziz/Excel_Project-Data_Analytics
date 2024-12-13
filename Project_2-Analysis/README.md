@@ -66,7 +66,7 @@ It includes detailed information on:
 
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot4](https://github.com/user-attachments/assets/b9e7ff84-6803-4ded-a3ed-6973ad3d0fc3)
+        ![2_Project_Analysis_Screenshot2](https://github.com/user-attachments/assets/f14837a1-945d-4519-937f-32c5e4b70633)
 
 ### 📊 Analysis
 
