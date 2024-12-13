@@ -78,7 +78,7 @@ IF(
 
 📉 Dashboard Implementation
 
-![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/f9ca3c92-8bbf-48ce-9bda-fb7c69d0004a)
+![1_Salary_Dashboard_Job_Title](https://github.com/user-attachments/assets/b5d6216a-8f1d-4a5b-9222-40957fdc9dfd)
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/a08e96c0-f50c-48b4-933e-af3ea34ce9c4)
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![1_Salary_Dashboard_Type](https://github.com/user-attachments/assets/8d4fab15-92f3-4b80-a0db-52472f2651bd)
 
 ### ❎ Data Validation
 
@@ -106,7 +106,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/d88de853-8ebf-4b2d-8158-4e5e63313bb7)
 
 ## Conclusion
 
